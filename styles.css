@@ -1,0 +1,26 @@
+#preto{
+    position: absolute;
+    background-color: black;
+    width: 1879px;
+    height: 350px;
+    top: 0px;
+    left: 0px;
+}
+#vermelho{
+    position: absolute;
+    background-color: red;
+    width: 1879px;
+    height: 350px;
+    top: 349px;
+    left: 0px;
+
+}
+#amarelo{
+    position: absolute;
+    background-color: yellow;
+    width: 1879px;
+    height: 271px;
+    top: 699px;
+    left: 0px;
+
+}
